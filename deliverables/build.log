@@ -1,0 +1,10 @@
+[1] javac --release 23 org/yaml/snakeyaml/external/biz/base64Coder/Base64Coder.java
+[2] javap -verbose org.yaml.snakeyaml.external.biz.base64Coder.Base64Coder
+major version: 67
+[3] class info
+FullName      : I:\files\slimefunfix\org\yaml\snakeyaml\external\biz\base64Coder\Base64Coder.class
+Length        : 999
+[4] sha256 class
+Path      : I:\files\slimefunfix\org\yaml\snakeyaml\external\biz\base64Coder\Base64Coder.class
+Algorithm : SHA256
+Hash      : BE8A1A144863D734F49BF6D8F46F70E72996B665A86B141F2AEF3F7093672283
