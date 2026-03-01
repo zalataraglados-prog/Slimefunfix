@@ -6,7 +6,6 @@
 
 - 报错链路：`BackpackListener.onClose -> saveBackpackInventory -> DataUtils.itemStack2String`
 - 缺失类：`org/yaml/snakeyaml/external/biz/base64Coder/Base64Coder`
-- 或出现版本报错：`UnsupportedClassVersionError`（class file version 不兼容）
 
 本仓库提供的 `Base64Coder.class` 已按 Java 23 目标编译：
 
